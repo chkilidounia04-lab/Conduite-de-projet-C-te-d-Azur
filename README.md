@@ -60,8 +60,5 @@ Le répertoire génère les résultats visuels attendus pour valider notre modè
 ## Exécution du Code
 
 Le code principal a été développé sur **Google Colab** en Python aini que sur R. 
-* Fichier principal : `code_python.ipynb`
-* Bibliothèques requises : `pandas`, `numpy`, `statsmodels`, `matplotlib`, `seaborn`, `geopandas`, `plotly`.
 
----
-*Projet réalisé dans le cadre du Master 1 APE / Statistique et Économétrie (2025/2026).*
+

@@ -1,18 +1,16 @@
-# Conduite-de-projet-C-te-d-Azur
-Construction d'indices de prix immobiliers sur la Côte d'Azur (2010-2025).
-# Construction d'Indices de Prix Immobiliers  : Région Côte d'Azur
+# Construction d'Indices de Prix Immobiliers  : Région Côte d'Azur (2010-2025)
 
-## Université de Strasbourg - Master 1 Statistique et Économétrie
-### CHKILI Dounia & GAYE Anna
+#### Université de Strasbourg - Master 1 Statistique et Économétrie
+##### CHKILI Dounia & GAYE Anna
 
 ---
-#### LIEN DU HTML MARKDOWN : 
+### LIEN DU HTML MARKDOWN : 
 
 https://chkilidounia04-lab.github.io/Conduite-de-projet-C-te-d-Azur/
 
 ### LIEN DU RAPPORT PDF : 
 
-Conduite_de_projet.pdf 
+[Lien du rapport en PDF (Format PDF)](./Conduite_de_projet.pdf)
 
 ## Introduction :
 

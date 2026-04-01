@@ -10,6 +10,10 @@ Construction d'indices de prix immobiliers sur la Côte d'Azur (2010-2025).
 
 https://chkilidounia04-lab.github.io/Conduite-de-projet-C-te-d-Azur/
 
+### LIEN DU RAPPORT PDF : 
+
+Conduite_de_projet.pdf 
+
 ## Introduction :
 
 Le marché immobilier est caractérisé par une forte hétérogénéité spatiale et structurelle. Le prix immobilier observé dépend à la fois de la composition des biens vendus (surface, typologie), de l'évolution du marché (tendances, cycles), et de l'hétérogénéité spatiale (commune, département). 

@@ -6,7 +6,7 @@
 ---
 ### LIEN DU HTML MARKDOWN : 
 
-https://github.com/chkilidounia04-lab/Conduite-de-projet-C-te-d-Azur/blob/b9af910bdea8ea0affe2dbcd5ccb65ef703339ca/conduite-de-projet3.html 
+[Lien du rapport du markdown](./index.html)
 
 ### LIEN DU RAPPORT PDF : 
 

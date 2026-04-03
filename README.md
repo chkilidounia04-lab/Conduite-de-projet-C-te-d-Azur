@@ -11,6 +11,7 @@ https://chkilidounia04-lab.github.io/Conduite-de-projet-C-te-d-Azur/
 ### LIEN DU RAPPORT PDF : 
 
 [Lien du rapport en PDF (Format PDF)](./CHKILI Dounia - GAYE Anna : conduite_de_projet.pdf)
+[📄 Cliquez ici pour lire le rapport final du projet (Format PDF)](./CHKILI Dounia - GAYE Anna : conduite_de_projet.pdf)
 
 ## Introduction :
 
